@@ -19,6 +19,9 @@ The Dashboard is very powerful - We can get answers for the below scenario based
 1) Getting to know all the stats of Virat Kholi at 20th over and IPL 2016 season. 
 2) Getting to know the stats of Ambati Rayudu while playing in Mumbai Indias vs Chennai Super Kings
 
+![Batsman Stats - Tableau](https://user-images.githubusercontent.com/105625298/168534103-c8c893d2-f6ca-498e-bdec-559feecb621a.png)
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Similarly Bowler Analysis Dashboard shows several key stats of Bowlers.
@@ -38,5 +41,8 @@ With the help of filter action in Tableau Dashboard - It is possible to find the
 In this Dashboard too - we can get answers for some scenario based questions.
 1) All the stats of Bumrah in the 20th over for Mumbai Indians
 2) DJ Bravo stats in Mumbai Indians vs Chennai Super kings
+
+
+![Bowlers Stats - Tableau](https://user-images.githubusercontent.com/105625298/168534148-29571a54-b82e-4b12-9697-ef456d721831.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
