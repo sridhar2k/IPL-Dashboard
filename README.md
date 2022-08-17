@@ -1,5 +1,6 @@
 # IPL-Dashboard
 The Tableau Dasboard captures Batsman and Bowlers stats. 
+To view the Tableau Dashboard in the server - https://public.tableau.com/app/profile/sridhar6026#!/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The Batsman Analysis Dashboard shows several key stats of a Batsman. 
